@@ -8,7 +8,7 @@ Este projeto é uma implementação de um limitador de taxa em Go, utilizando Re
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu_usuario/golang-rate-limit.git
-   cd golang-rate-limit
+   cd Golang-Rate-Limit/ 
 
 2. **Váriaveis de ambiente**
    RATE_LIMIT_IP=1 (limite por ip)
